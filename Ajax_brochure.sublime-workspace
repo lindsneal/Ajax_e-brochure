@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/GIT/Ajax_brochure/ajaxTest_softPetroleumAppraiser.html",
+		"/C/GIT/Ajax_brochure/sPApage1.html",
+		"/C/GIT/Ajax_brochure/sPApage2.html",
+		"/C/GIT/Ajax_brochure/sPApage3.html",
+		"/C/GIT/Ajax_brochure/sPApage4.html",
+		"/C/GIT/Ajax_brochure/Ajax_brochure.sublime-project",
+		"/C/GIT/Ajax_brochure/sPApage4.sublime-workspace",
+		"/C/webDev/SSG_webMedia/SSG_webMedia_160616/Responsive-Design.html",
+		"/C/webDev/SSG_webMedia/SSG_webMedia_160616/SaaS-Development.html",
+		"/C/webDev/SSG_webMedia/SSG_webMedia_160616/Social-Media.html",
+		"/C/webDev/SSG_webMedia/SSG_webMedia_160616/css/gif_animate.css",
+		"/C/webDev/SSG/SSG_160609/index.html",
+		"/C/webDev/SSG/SSG_160609/Case-Study-Use-Of-Information-Naturalization.html",
+		"/C/webDev/SSG/SSG_160609/about-us.html",
+		"/C/webDev/SSG/SSG_160609/Information-Naturalization.html",
+		"/C/webDev/SSG/SSG_160609/Leverage-Intellectual-Capital.html",
+		"/C/webDev/SSG/SSG_160609/Legal.html",
+		"/C/webDev/SSG/SSG_160609/Software-Mass-Customization.html",
+		"/C/webDev/SSG/SSG_160609/Small-Business-Enterprise-Solutions.html",
+		"/C/webDev/SSG/SSG_160609/Problem-Domain-Expertise.html",
+		"/C/webDev/SSG/SSG_160609/Multi-Paradigm-Integrated-Solutions.html",
+		"/C/webDev/SSG/SSG_160609/Privacy.html",
+		"/C/webDev/SSG/SSG_160609/whitePapers.html",
+		"/C/webDev/SSG/SSG_160609/desktop.html",
+		"/C/webDev/SSG/SSG_160609/Information-Naturalization - Copy.html",
+		"/C/webDev/SSG/SSG_160609/Legal - Copy.html",
+		"/C/webDev/SSG/SSG_160609/Case-Study-Use-Of-Information-Naturalization - Copy.html",
+		"/C/webDev/SSG/SSG_160609/back-office.html",
+		"/C/webDev/SSG/SSG_160609/back-office - Copy.html",
+		"/C/webDev/SSG/SSG_160609/tab-content/Software-Products.html",
+		"/C/webDev/SSG/SSG_160609/tab-content/Cross-Paradigm-Example.html",
+		"/C/webDev/SSG/SSG_160609/web.html",
+		"/C/webDev/SSG/SSG_160609/Leverage-Intellectual-Capital - Copy.html",
+		"/C/webDev/SSG/SSG_160609/mobile - Copy.html",
+		"/C/webDev/SSG/SSG_160609/mobile.html",
+		"/C/webDev/SSG/SSG_160609/Multi-Paradigm-Integrated-Solutions - Copy.html",
+		"/C/webDev/SSG/SSG_160609/Privacy - Copy.html",
+		"/C/webDev/SSG/SSG_160609/Problem-Domain-Expertise - Copy.html",
+		"/C/webDev/SSG/SSG_160609/Small-Business-Enterprise-Solutions - Copy.html",
+		"/C/webDev/SSG/SSG_160609/Software-Mass-Customization - Copy.html",
+		"/C/webDev/SSG/SSG_160609/web - Copy.html",
+		"/C/GIT/SweetNothingsCakery/about-us.html",
+		"/C/GIT/SweetNothingsCakery/css/demo.css",
+		"/C/GIT/SweetNothingsCakery/js/code.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/GIT/SweetNothingsCakery/index.html",
+		"/C/GIT/SweetNothingsCakery/order-guide.html",
+		"/C/GIT/SweetNothingsCakery/prices.html",
+		"/C/GIT/SweetNothingsCakery/servings.html",
+		"/C/GIT/SweetNothingsCakery/speciality.html",
+		"/C/GIT/SweetNothingsCakery/sweet-treats.html",
+		"/C/GIT/SweetNothingsCakery/celebrations.html",
+		"/C/GIT/SweetNothingsCakery/form.html",
+		"/C/GIT/SweetNothingsCakery/gallery.html",
+		"/C/GIT/SweetNothingsCakery/sitemap.xml",
+		"/C/Practice/rockPaperScissors.js",
+		"/C/GIT/SSG_webMedia_160616/about.html",
+		"/C/Users/admin/Documents/newGitTest/index.html",
+		"/C/webDev/GIT/gitTestFile.html",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/webDev/SSG_webMedia/SSG_webMedia_160223/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"containerGears",
+			"ul list1",
+			"2015",
+			"2016",
+			"2015",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"2016"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Ajax_brochure.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
