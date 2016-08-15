@@ -24,7 +24,7 @@ function pageAjax(url, id) {
 				$(id + ' >').hide().fadeIn(800).dequeue(); 
 			});
 				//this brings the start point back to the top of page.//
-				$("html, body").animate({ scrollTop: 0 }, 200); 
+				$("html, body").animate({ scrollTop: 450 }, 50); 
 		});	
 }
 
